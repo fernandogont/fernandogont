@@ -4,7 +4,7 @@ Gont has twenty years of industry experience in the fields of Internet engineeri
 
 Before joining Yalo, he was a security researcher and consultant at [SI6 Networks](https://www.si6networks.com), and worked a number of projects for the UK National Infrastructure Security Co-ordination Centre (NISCC) and the UK Centre for the Protection of National Infrastructure (CPNI) in the field of [communications protocols security](https://www.gont.com.ar/publications/).
 
-Gont has been active in the Internet Engineering Task Force (IETF) for over 15 years, and [has published over 35 IETF RFCs (Request For Comments) and more than a dozen IETF Internet-Drafts](https://datatracker.ietf.org/person/Fernando%20Gont).
+Gont has been active in the Internet Engineering Task Force (IETF) for over 15 years, and [has published 39 IETF RFCs (Request For Comments) and one IRTF RFC](https://datatracker.ietf.org/person/Fernando%20Gont).
 
 Gont has also been involved in a number of open source projects, including the [SI6 Networks’ IPv6 Toolkit](https://www.si6networks.com/research/tools/ipv6toolkit/) — a portable and comprehensive security asessment toolkit for the IPv6 protocol suite, and the SI6 Networks’ [IoT-toolkit](https://www.si6networks.com/tools/iot-toolkit). He has also contributed to the OpenBSD and FreeBSD operating systems, and to the [Linux kernel](https://patchwork.ozlabs.org/project/netdev/list/?submitter=64691&state=*).
 
